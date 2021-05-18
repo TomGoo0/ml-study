@@ -1,2 +1,2 @@
 # ml-study
-Intended asa demonstration of current ML level for Chowagiken
+Intended as a demonstration of current ML level for Chowagiken
